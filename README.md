@@ -22,3 +22,7 @@ For my portfolio project, I worked ..... don't done yet...
 ### If you want to reach out to me, you can message me on :
 
 [Linkedin](https://www.linkedin.com/in/lucile-deleforge-5a6889169/)
+
+## Language 
+
+![C logo](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png)
