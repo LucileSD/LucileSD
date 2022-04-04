@@ -1,16 +1,24 @@
-### Hi there 👋
+# My story
 
-<!--
-**LucileSD/LucileSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Lucile, I'm a dev student @Holberton School Lille France. 
+I'm very interesting by blockchain developpement in particulary in smart contract.
+So, I'm looking for an internship in a bank or insurance company.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Technologies
+
+I'm study in first year, C language and shell to understand how a machine works and the logical of programming.
+
+# Projects
+
+I rewrote my own printf function  and a simple Linux shell with 2 different groups.
+Thanks to the school learning approch, I learnt to work collaboratively, in person and remotely.
+
+
+# My portfolio project
+
+For my portfolio project, I worked ..... don't done yet...
+
+### If you want to reach out to me, you can message me on :
+
+Linkedin https://www.linkedin.com/in/lucile-deleforge-5a6889169/
