@@ -8,6 +8,7 @@ So, I'm looking for an internship in a bank or insurance company.
 # Technologies
 
 I'm study in first year, C language and shell to understand how a machine works and the logical of programming.
+I'm study too Python language.
 
 # Projects
 
