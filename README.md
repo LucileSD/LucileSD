@@ -1,18 +1,18 @@
 # My story
 
 Hello! I'm Lucile, I'm a dev student @Holberton School Lille France. 
-I'm very interesting by blockchain developpement in particulary in smart contract.
-So, I'm looking for an internship in a bank or insurance company.
+I'm very interesting by fullstack development.
+I'm looking for an internship.
 
 
 # Technologies
 
 I'm study in first year, C language and shell to understand how a machine works and the logical of programming.
-I'm study too Python language.
+I'm study too Python, Javascript language and HTML 5, CSS for the front-end and the SQL for the database.
 
 # Projects
 
-I rewrote my own printf function  and a simple Linux shell with 2 different groups.
+I rewrote a simple Linux shell with one person. for the console of the AirBnB clone, i work with an other person.
 Thanks to the school learning approch, I learnt to work collaboratively, in person and remotely.
 
 
