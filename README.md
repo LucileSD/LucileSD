@@ -44,6 +44,12 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://camo.githubusercontent.com/6198a51bd2e65278602cabc225708278c672c62918707a6cabdc5fcc26668c1a/68747470733a2f2f7777772e6c6f676f6c796e782e636f6d2f696d616765732f6c6f676f6c796e782f30642f30643335656636633864346664616630353930323238343034646336343438622e706e67"></code>
 <code><img height="70"
 src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png"></code>
+<code><img height="70"
+src="https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg"></code>
+<code><img height="70"
+src="https://www.turing.com/blog/wp-content/uploads/2022/02/Mongo-DB-Features.jpg"></code>
+<code><img height="70"
+src="https://miro.medium.com/v2/resize:fit:438/1*0G5zu7CnXdMT9pGbYUTQLQ.png"></code>
 
 ## My Medium articles
 
