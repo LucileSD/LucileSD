@@ -9,6 +9,7 @@ I'm looking for an internship of 3 months to keep learning.
 
 I'm study in first year, C language and shell to understand how a machine works and the logical of programming.
 I'm study too Python, Javascript language and HTML 5, CSS for the front-end and the SQL for the database.
+In the second year, I used Mongo DB, React framework, and I I have deepened my knowledge of JS, Python, CSS and HTML
 
 # Projects
 
